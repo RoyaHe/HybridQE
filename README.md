@@ -10,6 +10,7 @@ We introduce two benchmarks for the task of hybrid query answering over incomple
 - Python 3.7
 - PyTorch 1.7
 - tqdm
+- transformers
 
 ## 3. Reproduce the Results of HybridQE
 Here we display the example commands for reproducing the results of HybridQE(BetaE) on BioHybridQA and ProdHybridQA datasets
