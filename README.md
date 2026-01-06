@@ -1,6 +1,6 @@
 # HybridQE
 
-This repository is created for the implementation of the paper Hybrid Query Answering over Incomplete Text-Labeled Graph Databases.
+This temporary repository is created for the implementation of the paper Hybrid Query Answering over Incomplete Text-Labeled Graph Databases.
 
 ## 1. Datasets Preparation
 
