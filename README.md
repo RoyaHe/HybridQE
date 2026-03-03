@@ -4,7 +4,7 @@ This temporary repository is created for the implementation of the paper Hybrid 
 
 ## 1. Datasets Preparation
 
-We introduce two benchmarks for the task of hybrid query answering over incomplete semi-structured database, ProdHybridQA and BioHybridQA, which are derived from real-world e-commerce and protein-disease data. The hybrid queries can be downloaded via this [link](https://drive.google.com/drive/folders/1EZKTx2YuEnEPXsxm5bMEqvGH8MMKOmjw?usp=drive_link).
+We introduce two benchmarks for the task of hybrid query answering over incomplete semi-structured database, ProdHybridQA and BioHybridQA, which are derived from real-world e-commerce and protein-disease data. The benchmarks will be opensourced later.
 
 ## 2. Environment Requirement
 - Python 3.7
