@@ -1,13 +1,5 @@
 # HybridQE
 
-This temporary repository is created for the implementation of the paper Hybrid Query Answering over Incomplete Text-Labeled Graph Databases.
-
-## 1. Datasets Preparation
-
-We introduce two benchmarks for the task of hybrid query answering over incomplete semi-structured database, ProdHybridQA and BioHybridQA, which are derived from real-world e-commerce and protein-disease data. The benchmarks will be opensourced later.
-
-# HybridQE
-
 Implementation for hybrid query answering over incomplete text-labeled graph databases.
 
 ## Overview
