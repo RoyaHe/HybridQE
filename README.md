@@ -75,7 +75,7 @@ Pass the dataset root with `--data_directory`. The expected layout is:
 
 ## Quick Start
 
-### 1. Train + test on `prime` with BetaE
+### 1. Train + test on `BioHybridQA` with BetaE
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main.py --cuda --do_train --do_test \
@@ -89,7 +89,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --cuda --do_train --do_test \
   --graph_added
 ```
 
-### 2. Train + test on `amazon` with BetaE
+### 2. Train + test on `ProdHybridQA` with BetaE
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main.py --cuda --do_train --do_test \
@@ -103,7 +103,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --cuda --do_train --do_test \
   --graph_added
 ```
 
-### 3. Train + test on `amazon` with GammaE
+### 3. Train + test on `ProdHybridQA` with GammaE
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main.py --cuda --do_train --do_test \
